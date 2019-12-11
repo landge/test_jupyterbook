@@ -1,3 +1,4 @@
+remote-theme: landge/just-the-docs
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -16,7 +17,7 @@
 
 #######################################################################################
 # Jekyll site settings
-title: YOUR BOOK NAME
+title: My jupyterbook testpage!
 author: YOUR AUTHOR NAME
 email: YOUR EMAIL
 description: >-
